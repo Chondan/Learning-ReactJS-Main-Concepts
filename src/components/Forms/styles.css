@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1 { 
+    margin: 10px;
+}
+form {
+    width: 50%;
+    margin: 20px;
+    padding: 5px;
+}
+input, textarea, select {
+    width: 100%;
+    display: block;
+    margin: 5px 0;
+}
+input {
+    height: 25px;
+}
+textarea {
+    height: 50px;
+}
