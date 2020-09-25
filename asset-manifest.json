@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Thinking-Concept-In-ReactJS/static/css/main.09bcdde2.chunk.css",
-    "main.js": "/Thinking-Concept-In-ReactJS/static/js/main.4d90febb.chunk.js",
-    "main.js.map": "/Thinking-Concept-In-ReactJS/static/js/main.4d90febb.chunk.js.map",
-    "runtime-main.js": "/Thinking-Concept-In-ReactJS/static/js/runtime-main.11a30277.js",
-    "runtime-main.js.map": "/Thinking-Concept-In-ReactJS/static/js/runtime-main.11a30277.js.map",
-    "static/js/2.90d6231e.chunk.js": "/Thinking-Concept-In-ReactJS/static/js/2.90d6231e.chunk.js",
-    "static/js/2.90d6231e.chunk.js.map": "/Thinking-Concept-In-ReactJS/static/js/2.90d6231e.chunk.js.map",
-    "index.html": "/Thinking-Concept-In-ReactJS/index.html",
-    "precache-manifest.3ae46efe90769f66b631d4f533122b3b.js": "/Thinking-Concept-In-ReactJS/precache-manifest.3ae46efe90769f66b631d4f533122b3b.js",
-    "service-worker.js": "/Thinking-Concept-In-ReactJS/service-worker.js",
-    "static/css/main.09bcdde2.chunk.css.map": "/Thinking-Concept-In-ReactJS/static/css/main.09bcdde2.chunk.css.map",
-    "static/js/2.90d6231e.chunk.js.LICENSE.txt": "/Thinking-Concept-In-ReactJS/static/js/2.90d6231e.chunk.js.LICENSE.txt"
+    "main.css": "/Thinking-Concepts-In-ReactJS/static/css/main.09bcdde2.chunk.css",
+    "main.js": "/Thinking-Concepts-In-ReactJS/static/js/main.4d90febb.chunk.js",
+    "main.js.map": "/Thinking-Concepts-In-ReactJS/static/js/main.4d90febb.chunk.js.map",
+    "runtime-main.js": "/Thinking-Concepts-In-ReactJS/static/js/runtime-main.8f43f80a.js",
+    "runtime-main.js.map": "/Thinking-Concepts-In-ReactJS/static/js/runtime-main.8f43f80a.js.map",
+    "static/js/2.90d6231e.chunk.js": "/Thinking-Concepts-In-ReactJS/static/js/2.90d6231e.chunk.js",
+    "static/js/2.90d6231e.chunk.js.map": "/Thinking-Concepts-In-ReactJS/static/js/2.90d6231e.chunk.js.map",
+    "index.html": "/Thinking-Concepts-In-ReactJS/index.html",
+    "precache-manifest.3896bb255495fd03e4ecc0b897f21b08.js": "/Thinking-Concepts-In-ReactJS/precache-manifest.3896bb255495fd03e4ecc0b897f21b08.js",
+    "service-worker.js": "/Thinking-Concepts-In-ReactJS/service-worker.js",
+    "static/css/main.09bcdde2.chunk.css.map": "/Thinking-Concepts-In-ReactJS/static/css/main.09bcdde2.chunk.css.map",
+    "static/js/2.90d6231e.chunk.js.LICENSE.txt": "/Thinking-Concepts-In-ReactJS/static/js/2.90d6231e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11a30277.js",
+    "static/js/runtime-main.8f43f80a.js",
     "static/js/2.90d6231e.chunk.js",
     "static/css/main.09bcdde2.chunk.css",
     "static/js/main.4d90febb.chunk.js"
