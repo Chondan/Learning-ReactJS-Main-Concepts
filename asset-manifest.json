@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Thinking-Concepts-In-ReactJS/static/css/main.09bcdde2.chunk.css",
-    "main.js": "/Thinking-Concepts-In-ReactJS/static/js/main.4d90febb.chunk.js",
-    "main.js.map": "/Thinking-Concepts-In-ReactJS/static/js/main.4d90febb.chunk.js.map",
+    "main.css": "/Thinking-Concepts-In-ReactJS/static/css/main.7ed278cd.chunk.css",
+    "main.js": "/Thinking-Concepts-In-ReactJS/static/js/main.ad5245e7.chunk.js",
+    "main.js.map": "/Thinking-Concepts-In-ReactJS/static/js/main.ad5245e7.chunk.js.map",
     "runtime-main.js": "/Thinking-Concepts-In-ReactJS/static/js/runtime-main.8f43f80a.js",
     "runtime-main.js.map": "/Thinking-Concepts-In-ReactJS/static/js/runtime-main.8f43f80a.js.map",
     "static/js/2.90d6231e.chunk.js": "/Thinking-Concepts-In-ReactJS/static/js/2.90d6231e.chunk.js",
     "static/js/2.90d6231e.chunk.js.map": "/Thinking-Concepts-In-ReactJS/static/js/2.90d6231e.chunk.js.map",
     "index.html": "/Thinking-Concepts-In-ReactJS/index.html",
-    "precache-manifest.3896bb255495fd03e4ecc0b897f21b08.js": "/Thinking-Concepts-In-ReactJS/precache-manifest.3896bb255495fd03e4ecc0b897f21b08.js",
+    "precache-manifest.efc94ebca66518bf2c816f4b1d1f4809.js": "/Thinking-Concepts-In-ReactJS/precache-manifest.efc94ebca66518bf2c816f4b1d1f4809.js",
     "service-worker.js": "/Thinking-Concepts-In-ReactJS/service-worker.js",
-    "static/css/main.09bcdde2.chunk.css.map": "/Thinking-Concepts-In-ReactJS/static/css/main.09bcdde2.chunk.css.map",
+    "static/css/main.7ed278cd.chunk.css.map": "/Thinking-Concepts-In-ReactJS/static/css/main.7ed278cd.chunk.css.map",
     "static/js/2.90d6231e.chunk.js.LICENSE.txt": "/Thinking-Concepts-In-ReactJS/static/js/2.90d6231e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8f43f80a.js",
     "static/js/2.90d6231e.chunk.js",
-    "static/css/main.09bcdde2.chunk.css",
-    "static/js/main.4d90febb.chunk.js"
+    "static/css/main.7ed278cd.chunk.css",
+    "static/js/main.ad5245e7.chunk.js"
   ]
 }
